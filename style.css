@@ -1,0 +1,19 @@
+div {
+  height: 300px;
+  width: 300px;
+  background-color: brown;
+  text-align: center;
+  position: relative;
+}
+p {
+  position: absolute;
+  width: 50%;
+  height: 50%;
+  background-color: blue;
+  margin-left: 20%;
+  margin-top: 25%;
+  text-align: center;
+  border-style: solid;
+  border-color: chartreuse;
+  border-width: 3px;
+}
